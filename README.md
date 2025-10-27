@@ -7,6 +7,8 @@
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
+
+<img src="CircularVectorfieldn012.png" width="800">
 ---
 
 ## 📘 Introduction
@@ -68,7 +70,7 @@ The paper demonstrates that for a fixed particle number, the **lowest-energy con
 A forthcoming paper will address the **linear stability** of these solutions.
 
 ---
-
+<img src="Circular_field_n0_pol.png" width="800">
 ---
 
 ## 📚 Reference
